@@ -1,0 +1,61 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000BPwB4AAL",
+      "createdByName": "Ivo Carlos",
+      "createdDate": "2022-03-18T16:15:50.000Z",
+      "fileName": "classes/trlhdtips__tt_UtilController.cls",
+      "fullName": "trlhdtips__tt_UtilController",
+      "id": "01p8c00000MiFW8AAN",
+      "lastModifiedById": "0058c00000BPwB4AAL",
+      "lastModifiedByName": "Ivo Carlos",
+      "lastModifiedDate": "2022-03-18T16:15:50.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058c00000BPwB4AAL",
+      "createdByName": "Ivo Carlos",
+      "createdDate": "2022-03-18T16:24:33.000Z",
+      "fileName": "classes/THSK__PostInstallClassTest.cls",
+      "fullName": "THSK__PostInstallClassTest",
+      "id": "01p8c00000MiJlPAAV",
+      "lastModifiedById": "0058c00000BPwB4AAL",
+      "lastModifiedByName": "Ivo Carlos",
+      "lastModifiedDate": "2022-03-18T16:24:33.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "THSK",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058c00000BPwB4AAL",
+      "createdByName": "Ivo Carlos",
+      "createdDate": "2022-03-18T16:24:33.000Z",
+      "fileName": "classes/THSK__PostInstallClass.cls",
+      "fullName": "THSK__PostInstallClass",
+      "id": "01p8c00000MiJlOAAV",
+      "lastModifiedById": "0058c00000BPwB4AAL",
+      "lastModifiedByName": "Ivo Carlos",
+      "lastModifiedDate": "2022-03-18T16:24:33.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "THSK",
+      "type": "ApexClass"
+    },
+    {
+      "createdById": "0058c00000BPwB4AAL",
+      "createdByName": "Ivo Carlos",
+      "createdDate": "2022-03-18T16:15:50.000Z",
+      "fileName": "classes/trlhdtips__tt_UtilControllerTest.cls",
+      "fullName": "trlhdtips__tt_UtilControllerTest",
+      "id": "01p8c00000MiFW9AAN",
+      "lastModifiedById": "0058c00000BPwB4AAL",
+      "lastModifiedByName": "Ivo Carlos",
+      "lastModifiedDate": "2022-03-18T16:15:50.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ApexClass"
+    }
+  ]
+}
